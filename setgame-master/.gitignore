@@ -1,0 +1,6 @@
+public/*.js
+public/*.css
+node_modules
+*.tmproj
+*.DS_Store
+*.log
